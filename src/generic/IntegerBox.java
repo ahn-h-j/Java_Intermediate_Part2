@@ -1,3 +1,5 @@
+package generic;
+
 public class IntegerBox {
 
     private Integer value;
