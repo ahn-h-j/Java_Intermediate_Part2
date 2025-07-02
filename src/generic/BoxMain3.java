@@ -1,3 +1,5 @@
+package generic;
+
 public class BoxMain3 {
 
     public static void main(String[] args) {
