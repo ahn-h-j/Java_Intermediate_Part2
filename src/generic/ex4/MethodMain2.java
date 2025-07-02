@@ -1,4 +1,7 @@
-package generic;
+package generic.ex4;
+
+import generic.Cat;
+import generic.Dog;
 
 public class MethodMain2 {
     public static void main(String[] args) {

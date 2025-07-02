@@ -1,4 +1,6 @@
-package generic;
+package generic.ex4;
+
+import generic.Animal;
 
 public class AnimalMethod {
     public static <T extends Animal> void checkup(T t){
