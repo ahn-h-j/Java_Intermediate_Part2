@@ -1,4 +1,7 @@
-package generic;
+package generic.ex3;
+
+import generic.Cat;
+import generic.Dog;
 
 public class AnimalHospitalMainV1 {
     public static void main(String[] args) {

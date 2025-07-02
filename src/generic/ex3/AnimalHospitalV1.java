@@ -1,4 +1,6 @@
-package generic;
+package generic.ex3;
+
+import generic.Animal;
 
 public class AnimalHospitalV1<T extends Animal> {
     private T animal;
