@@ -1,3 +1,5 @@
+package generic;
+
 public class ObjectBox {
 
     private Object value;
