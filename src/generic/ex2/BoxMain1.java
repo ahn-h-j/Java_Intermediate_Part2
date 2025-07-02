@@ -1,4 +1,7 @@
-package generic;
+package generic.ex2;
+
+import generic.ex2.IntegerBox;
+import generic.ex2.StringBox;
 
 public class BoxMain1 {
 
