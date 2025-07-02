@@ -1,4 +1,4 @@
-package generic;
+package generic.ex2;
 
 public class ObjectBox {
 

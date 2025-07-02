@@ -1,4 +1,6 @@
-package generic;
+package generic.ex2;
+
+import generic.ex2.ObjectBox;
 
 public class BoxMain2 {
 
