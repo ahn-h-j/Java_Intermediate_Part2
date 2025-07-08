@@ -1,4 +1,4 @@
-package collection.question;
+package collection.list;
 
 public class Item {
     private String name;
