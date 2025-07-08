@@ -1,4 +1,4 @@
-package collection.question;
+package collection.list.question;
 
 public class ShoppingCartMain {
     public static void main(String[] args) {

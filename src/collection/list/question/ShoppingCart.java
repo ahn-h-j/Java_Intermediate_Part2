@@ -1,6 +1,4 @@
-package collection.question;
-
-import collection.question.Item;
+package collection.list.question;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package collection.question;
+package collection.list.question;
 
 import java.util.ArrayList;
 import java.util.List;
