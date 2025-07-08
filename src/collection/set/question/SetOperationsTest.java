@@ -1,4 +1,4 @@
-package collection.question;
+package collection.set.question;
 
 import java.util.HashSet;
 import java.util.List;

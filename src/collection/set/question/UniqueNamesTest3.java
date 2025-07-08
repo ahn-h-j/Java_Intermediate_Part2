@@ -1,4 +1,4 @@
-package collection.question;
+package collection.set.question;
 
 import java.util.Arrays;
 import java.util.LinkedHashSet;
